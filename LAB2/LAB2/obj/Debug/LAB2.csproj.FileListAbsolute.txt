@@ -1,0 +1,76 @@
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\Lab 2\LAB2\LAB2\obj\Debug\LAB2.LAB2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.LAB2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task6Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task5Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.LAB2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task5Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task6Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\Git - Thực hành\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.LAB2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task1Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task2Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task3Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task4Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task5Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.Task6Form.resources
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Long Nguyen\Desktop\Lập trình mạng căn bản\21522304-NguyenHoangLong\Lab 2\LAB2\LAB2\obj\Debug\LAB2.pdb
